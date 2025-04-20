@@ -16,3 +16,13 @@ Task 2: Data Visualization and Storytelling
 
 - Fourth is the "Sum of sales by city" which is represented in a line chart and shows the top 10 highest sales city, according to the
   analysis New York City has the highest margin of sales of around 0.26 million dollers.
+
+  ## Tools used
+- Microsoft Excel
+- Power BI
+
+  ## Author
+  Shiv Kumar Paul
+  ## Linkedin Profile: www.linkedin.com/in/shiv-kumar-paul666
+  
+  
