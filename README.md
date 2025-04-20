@@ -23,6 +23,6 @@ Task 2: Data Visualization and Storytelling
 
   ## Author
   Shiv Kumar Paul
-  ## Linkedin Profile: www.linkedin.com/in/shiv-kumar-paul666
+  ### Linkedin Profile: www.linkedin.com/in/shiv-kumar-paul666
   
   
